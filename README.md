@@ -1,5 +1,10 @@
-# wikipedia-search
+# Author
+![@jchurst](https://avatars0.githubusercontent.com/jchurst?&s=128)
 
-A Pen created at CodePen.io for Free Code Camp. You can find this one at http://codepen.io/jchurst/full/OXWVLy/.
+Created by JC Hurst
 
-FCC Project - Wikipedia Search Viewer
+[Github](https://github.com/jchurst) | [FreeCodeCamp](http://www.freecodecamp.com/jchurst) | [CodePen](http://codepen.io/jchurst/) | [LinkedIn](https://www.linkedin.com/in/jchurst) | [Website](http://hurstcreative.com/) | [E-Mail](mailto:jchurstmail@gmail.com)
+
+# FreeCodeCamp Front End Project - Wikipedia Search Viewer
+
+A Pen created at CodePen.io for Free Code Camp: http://codepen.io/jchurst/full/OXWVLy/
